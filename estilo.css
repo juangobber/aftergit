@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient( navy, blueviolet, violet, white);
+    width: 100vw;
+    height: 100vw;
+    color: aliceblue;
+}
+footer{
+    background-image: linear-gradient(blue lightblue);
+    width: 90vw;
+    height: 25vh;
+}
+
+section{
+    width: 100vw;
+    height: 15vw;
+}
+
+h1, h2, h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+    padding 20px
+    ;
+}
